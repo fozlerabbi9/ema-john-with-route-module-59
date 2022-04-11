@@ -1,0 +1,31 @@
+.from-container{
+    width: 450px;
+    height: 480px;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 10px;
+    box-sizing: border-box;
+}
+.from-div{
+    width: 400px;
+    box-shadow: 2px 2px 5px gray;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+form{
+    text-align: left;
+    box-sizing: border-box;
+}
+input{
+    width: 390px;
+    /* width: 100%; */
+    margin-top: 10px;
+}
+button{
+    box-sizing: border-box;
+    width: 390px;
+    margin: 5px;
+}
+span{
+    color: red;
+}
